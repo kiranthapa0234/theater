@@ -1,2 +1,2 @@
 # theater
-Movies showing
+python manage.py runserver
